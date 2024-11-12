@@ -1,4 +1,4 @@
-from ERACHAT import db
+from MISHRA import db
 
 chatsdb = db.chatsdb
 
